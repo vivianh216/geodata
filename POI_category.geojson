@@ -1,0 +1,6725 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7539883,
+                    24.74933969999999
+                ]
+            },
+            "properties": {
+                "name": "宜蘭縣政府警察局",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7554045,
+                    24.75538779999998
+                ]
+            },
+            "properties": {
+                "name": "宜蘭分局",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769338,
+                    24.67850169999998
+                ]
+            },
+            "properties": {
+                "name": "羅東分局",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7739335999999,
+                    24.82715020000001
+                ]
+            },
+            "properties": {
+                "name": "礁溪分局",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8448736,
+                    24.59581460000003
+                ]
+            },
+            "properties": {
+                "name": "蘇澳分局",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6522631,
+                    24.66675320000001
+                ]
+            },
+            "properties": {
+                "name": "三星分局",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7554045,
+                    24.75538779999998
+                ]
+            },
+            "properties": {
+                "name": "新民派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.772922,
+                    24.75048209999999
+                ]
+            },
+            "properties": {
+                "name": "延平派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7482198,
+                    24.75590049999999
+                ]
+            },
+            "properties": {
+                "name": "民族派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7568641,
+                    24.76965100000002
+                ]
+            },
+            "properties": {
+                "name": "新生派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7616787,
+                    24.73093699999997
+                ]
+            },
+            "properties": {
+                "name": "進士派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7267209,
+                    24.74522580000002
+                ]
+            },
+            "properties": {
+                "name": "員山分駐所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7187776,
+                    24.7589999
+                ]
+            },
+            "properties": {
+                "name": "枕山派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6973819,
+                    24.74332889999998
+                ]
+            },
+            "properties": {
+                "name": "大湖派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7291271,
+                    24.72922030000002
+                ]
+            },
+            "properties": {
+                "name": "惠好派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6954992,
+                    24.7151642
+                ]
+            },
+            "properties": {
+                "name": "內城派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769338,
+                    24.67850169999998
+                ]
+            },
+            "properties": {
+                "name": "公正派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7707114,
+                    24.66955899999999
+                ]
+            },
+            "properties": {
+                "name": "成功派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7773335,
+                    24.67178519999997
+                ]
+            },
+            "properties": {
+                "name": "開羅派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.793363,
+                    24.63385530000001
+                ]
+            },
+            "properties": {
+                "name": "冬山分駐所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7978566,
+                    24.68753360000001
+                ]
+            },
+            "properties": {
+                "name": "五結分駐所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7674391,
+                    24.70610729999999
+                ]
+            },
+            "properties": {
+                "name": "二結派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8227842,
+                    24.6662217
+                ]
+            },
+            "properties": {
+                "name": "利澤派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7641814,
+                    24.6546067
+                ]
+            },
+            "properties": {
+                "name": "順安派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7492566,
+                    24.66974479999998
+                ]
+            },
+            "properties": {
+                "name": "廣興派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7739335999999,
+                    24.82715020000001
+                ]
+            },
+            "properties": {
+                "name": "礁溪派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7669795,
+                    24.8101137
+                ]
+            },
+            "properties": {
+                "name": "三城派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7614568,
+                    24.7877831
+                ]
+            },
+            "properties": {
+                "name": "四城派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7406172,
+                    24.77991019999999
+                ]
+            },
+            "properties": {
+                "name": "龍潭派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7863455,
+                    24.74629639999999
+                ]
+            },
+            "properties": {
+                "name": "壯圍分駐所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8031722,
+                    24.76425430000002
+                ]
+            },
+            "properties": {
+                "name": "忠孝派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7873329,
+                    24.77743329999997
+                ]
+            },
+            "properties": {
+                "name": "美城派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8169748,
+                    24.80047229999999
+                ]
+            },
+            "properties": {
+                "name": "大福派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8268269,
+                    24.8626211
+                ]
+            },
+            "properties": {
+                "name": "頭城分駐所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7930342,
+                    24.83882189999999
+                ]
+            },
+            "properties": {
+                "name": "二城派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8070135,
+                    24.86368590000001
+                ]
+            },
+            "properties": {
+                "name": "福成派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8921829,
+                    24.9398329
+                ]
+            },
+            "properties": {
+                "name": "大溪派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.9213649,
+                    24.96422830000002
+                ]
+            },
+            "properties": {
+                "name": "大里派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8448736,
+                    24.59581460000003
+                ]
+            },
+            "properties": {
+                "name": "蘇澳派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8525016,
+                    24.61178609999997
+                ]
+            },
+            "properties": {
+                "name": "港邊派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8661566,
+                    24.58236149999998
+                ]
+            },
+            "properties": {
+                "name": "南方澳派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8320384,
+                    24.51960569999999
+                ]
+            },
+            "properties": {
+                "name": "東澳派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7773831,
+                    24.44938949999999
+                ]
+            },
+            "properties": {
+                "name": "武塔派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8350642,
+                    24.61806119999999
+                ]
+            },
+            "properties": {
+                "name": "馬賽派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.803296,
+                    24.46575940000001
+                ]
+            },
+            "properties": {
+                "name": "南澳分駐所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7865352,
+                    24.4751953
+                ]
+            },
+            "properties": {
+                "name": "碧候派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8135925,
+                    24.61461910000001
+                ]
+            },
+            "properties": {
+                "name": "新城派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7394161,
+                    24.32956079999999
+                ]
+            },
+            "properties": {
+                "name": "澳花派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6522631,
+                    24.66675320000001
+                ]
+            },
+            "properties": {
+                "name": "三星派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7008052,
+                    24.66750289999997
+                ]
+            },
+            "properties": {
+                "name": "大隱派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7288894,
+                    24.69304109999998
+                ]
+            },
+            "properties": {
+                "name": "大洲派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6218084,
+                    24.6619076
+                ]
+            },
+            "properties": {
+                "name": "福山派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6090088,
+                    24.6776372
+                ]
+            },
+            "properties": {
+                "name": "大同分駐所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5262631,
+                    24.61342339999999
+                ]
+            },
+            "properties": {
+                "name": "英士派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5695773,
+                    24.64081030000001
+                ]
+            },
+            "properties": {
+                "name": "牛鬥派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6887807,
+                    24.61063600000002
+                ]
+            },
+            "properties": {
+                "name": "寒溪派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4718274,
+                    24.65360840000002
+                ]
+            },
+            "properties": {
+                "name": "明池派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4265958,
+                    24.48753220000002
+                ]
+            },
+            "properties": {
+                "name": "四季派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3793467,
+                    24.43700979999999
+                ]
+            },
+            "properties": {
+                "name": "南山派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5351067,
+                    24.4973747
+                ]
+            },
+            "properties": {
+                "name": "太平山派出所",
+                "POI_category": "警察局",
+                "color": "#CAC4B0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737309,
+                    24.733611
+                ]
+            },
+            "properties": {
+                "name": "縣立中山國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7542857,
+                    24.7547533
+                ]
+            },
+            "properties": {
+                "name": "縣立宜蘭國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7541406,
+                    24.76406670000001
+                ]
+            },
+            "properties": {
+                "name": "縣立力行國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7545795,
+                    24.77072589999999
+                ]
+            },
+            "properties": {
+                "name": "縣立新生國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7469735,
+                    24.75507669999998
+                ]
+            },
+            "properties": {
+                "name": "縣立光復國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737309,
+                    24.733611
+                ]
+            },
+            "properties": {
+                "name": "縣立育才國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7631999,
+                    24.7244108
+                ]
+            },
+            "properties": {
+                "name": "縣立凱旋國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764246,
+                    24.75150840000002
+                ]
+            },
+            "properties": {
+                "name": "縣立黎明國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7426995,
+                    24.75475730000001
+                ]
+            },
+            "properties": {
+                "name": "縣立南屏國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7726141,
+                    24.67286920000002
+                ]
+            },
+            "properties": {
+                "name": "縣立羅東國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7687417,
+                    24.67083940000002
+                ]
+            },
+            "properties": {
+                "name": "縣立成功國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7662045,
+                    24.67834959999999
+                ]
+            },
+            "properties": {
+                "name": "縣立公正國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7585644,
+                    24.67546560000002
+                ]
+            },
+            "properties": {
+                "name": "縣立北成國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7669167,
+                    24.68878109999999
+                ]
+            },
+            "properties": {
+                "name": "縣立竹林國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8411381,
+                    24.5966644
+                ]
+            },
+            "properties": {
+                "name": "縣立蘇澳國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8344576,
+                    24.6215871
+                ]
+            },
+            "properties": {
+                "name": "縣立馬賽國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8033216,
+                    24.46453469999999
+                ]
+            },
+            "properties": {
+                "name": "縣立蓬萊國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.854482,
+                    24.59207380000003
+                ]
+            },
+            "properties": {
+                "name": "縣立士敏國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8443408,
+                    24.5757158
+                ]
+            },
+            "properties": {
+                "name": "縣立永樂國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8679079,
+                    24.5785262
+                ]
+            },
+            "properties": {
+                "name": "縣立南安國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8532144,
+                    24.61379180000002
+                ]
+            },
+            "properties": {
+                "name": "縣立岳明國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8320077,
+                    24.63975140000001
+                ]
+            },
+            "properties": {
+                "name": "縣立育英國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8276146,
+                    24.862683
+                ]
+            },
+            "properties": {
+                "name": "縣立頭城國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8204963,
+                    24.82531260000001
+                ]
+            },
+            "properties": {
+                "name": "縣立竹安國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8057142,
+                    24.84388579999999
+                ]
+            },
+            "properties": {
+                "name": "縣立二城國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8869455,
+                    24.9357004
+                ]
+            },
+            "properties": {
+                "name": "縣立大溪國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.9262446,
+                    24.9704894
+                ]
+            },
+            "properties": {
+                "name": "縣立大里國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8621622,
+                    24.9005737
+                ]
+            },
+            "properties": {
+                "name": "縣立梗枋國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7683411,
+                    24.82157530000002
+                ]
+            },
+            "properties": {
+                "name": "縣立礁溪國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7599726,
+                    24.78695679999998
+                ]
+            },
+            "properties": {
+                "name": "縣立四結國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7446585,
+                    24.7799658
+                ]
+            },
+            "properties": {
+                "name": "縣立龍潭國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7890637,
+                    24.80300230000001
+                ]
+            },
+            "properties": {
+                "name": "縣立玉田國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7599726,
+                    24.81344949999999
+                ]
+            },
+            "properties": {
+                "name": "縣立三民國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7220396,
+                    24.74371420000001
+                ]
+            },
+            "properties": {
+                "name": "縣立員山國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7236427,
+                    24.72362569999999
+                ]
+            },
+            "properties": {
+                "name": "縣立深溝國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7432115,
+                    24.71983599999998
+                ]
+            },
+            "properties": {
+                "name": "縣立七賢國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7299184,
+                    24.76414379999999
+                ]
+            },
+            "properties": {
+                "name": "縣立同樂國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6994162,
+                    24.77934499999999
+                ]
+            },
+            "properties": {
+                "name": "縣立湖山國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6935701,
+                    24.7493968
+                ]
+            },
+            "properties": {
+                "name": "縣立大湖國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6875013,
+                    24.71888309999999
+                ]
+            },
+            "properties": {
+                "name": "縣立內城國(中)小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7900382,
+                    24.74436120000002
+                ]
+            },
+            "properties": {
+                "name": "縣立壯圍國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7996874,
+                    24.77192819999999
+                ]
+            },
+            "properties": {
+                "name": "縣立古亭國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8162472,
+                    24.7359186
+                ]
+            },
+            "properties": {
+                "name": "縣立公館國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8148014,
+                    24.75946039999997
+                ]
+            },
+            "properties": {
+                "name": "縣立過嶺國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8144454,
+                    24.80158599999997
+                ]
+            },
+            "properties": {
+                "name": "縣立大福國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7995398,
+                    24.72288889999998
+                ]
+            },
+            "properties": {
+                "name": "縣立新南國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7984859,
+                    24.68697330000001
+                ]
+            },
+            "properties": {
+                "name": "縣立五結國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7702996,
+                    24.70669880000001
+                ]
+            },
+            "properties": {
+                "name": "縣立學進國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7724091,
+                    24.6927863
+                ]
+            },
+            "properties": {
+                "name": "縣立中興國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8276221,
+                    24.66547560000002
+                ]
+            },
+            "properties": {
+                "name": "縣立利澤國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8119538,
+                    24.69689690000003
+                ]
+            },
+            "properties": {
+                "name": "縣立孝威國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7899271,
+                    24.63249529999999
+                ]
+            },
+            "properties": {
+                "name": "縣立冬山國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8068692,
+                    24.62941129999998
+                ]
+            },
+            "properties": {
+                "name": "縣立東興國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7634738,
+                    24.65499210000004
+                ]
+            },
+            "properties": {
+                "name": "縣立順安國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7987828,
+                    24.66191690000002
+                ]
+            },
+            "properties": {
+                "name": "縣立武淵國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7428776,
+                    24.66511030000001
+                ]
+            },
+            "properties": {
+                "name": "縣立廣興國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7160724,
+                    24.6340359
+                ]
+            },
+            "properties": {
+                "name": "縣立大進國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7313081,
+                    24.6760644
+                ]
+            },
+            "properties": {
+                "name": "縣立柯林國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6505911,
+                    24.66683990000003
+                ]
+            },
+            "properties": {
+                "name": "縣立三星國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7286314,
+                    24.69265210000001
+                ]
+            },
+            "properties": {
+                "name": "縣立大洲國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.618683,
+                    24.6605347
+                ]
+            },
+            "properties": {
+                "name": "縣立憲明國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6890093,
+                    24.6773754
+                ]
+            },
+            "properties": {
+                "name": "縣立萬富國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7129551,
+                    24.6671569
+                ]
+            },
+            "properties": {
+                "name": "縣立大隱國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4268684,
+                    24.48814719999998
+                ]
+            },
+            "properties": {
+                "name": "縣立四季國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3804702,
+                    24.43789860000003
+                ]
+            },
+            "properties": {
+                "name": "縣立南山國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.609261,
+                    24.67832299999998
+                ]
+            },
+            "properties": {
+                "name": "縣立大同國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6876573,
+                    24.60944770000002
+                ]
+            },
+            "properties": {
+                "name": "縣立寒溪國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8011732,
+                    24.46718359999998
+                ]
+            },
+            "properties": {
+                "name": "縣立南澳國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7847646,
+                    24.47413030000001
+                ]
+            },
+            "properties": {
+                "name": "縣立碧候國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7773442,
+                    24.4465178
+                ]
+            },
+            "properties": {
+                "name": "縣立武塔國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739583,
+                    24.32927710000002
+                ]
+            },
+            "properties": {
+                "name": "縣立澳花國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.832953,
+                    24.52143639999999
+                ]
+            },
+            "properties": {
+                "name": "縣立東澳國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7763471,
+                    24.4709295
+                ]
+            },
+            "properties": {
+                "name": "縣立金岳國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7493115,
+                    24.42623069999997
+                ]
+            },
+            "properties": {
+                "name": "縣立金洋國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8197845,
+                    24.85990319999998
+                ]
+            },
+            "properties": {
+                "name": "縣立人文國(中)小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7640437,
+                    24.6644194
+                ]
+            },
+            "properties": {
+                "name": "縣立清溝國小",
+                "POI_category": "國民小學",
+                "color": "#B4A7A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7574798,
+                    24.76204329999998
+                ]
+            },
+            "properties": {
+                "name": "縣立宜蘭國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766899,
+                    24.75014959999998
+                ]
+            },
+            "properties": {
+                "name": "縣立中華國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7469232,
+                    24.74917510000001
+                ]
+            },
+            "properties": {
+                "name": "縣立復興國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7669167,
+                    24.68215689999998
+                ]
+            },
+            "properties": {
+                "name": "縣立羅東國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7675418,
+                    24.67192820000001
+                ]
+            },
+            "properties": {
+                "name": "縣立東光國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761219,
+                    24.67819580000001
+                ]
+            },
+            "properties": {
+                "name": "縣立國華國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.822055,
+                    24.8654228
+                ]
+            },
+            "properties": {
+                "name": "縣立頭城國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8354275,
+                    24.5964079
+                ]
+            },
+            "properties": {
+                "name": "縣立蘇澳國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8326478,
+                    24.6184951
+                ]
+            },
+            "properties": {
+                "name": "縣立文化國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8690008999999,
+                    24.57602829999999
+                ]
+            },
+            "properties": {
+                "name": "縣立南安國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6543339,
+                    24.6681196
+                ]
+            },
+            "properties": {
+                "name": "縣立三星國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7669167,
+                    24.8172755
+                ]
+            },
+            "properties": {
+                "name": "縣立礁溪國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7591047,
+                    24.7860523
+                ]
+            },
+            "properties": {
+                "name": "縣立吳沙國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7912871,
+                    24.63181509999999
+                ]
+            },
+            "properties": {
+                "name": "縣立冬山國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7658005,
+                    24.6548255
+                ]
+            },
+            "properties": {
+                "name": "縣立順安國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8005627,
+                    24.69659860000001
+                ]
+            },
+            "properties": {
+                "name": "縣立五結國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7713678,
+                    24.6994925
+                ]
+            },
+            "properties": {
+                "name": "縣立興中國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8284821,
+                    24.66583600000002
+                ]
+            },
+            "properties": {
+                "name": "縣立利澤國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7149146,
+                    24.75068909999997
+                ]
+            },
+            "properties": {
+                "name": "縣立員山國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6875013,
+                    24.71888309999999
+                ]
+            },
+            "properties": {
+                "name": "縣立內城國中(小)",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7879891,
+                    24.7494745
+                ]
+            },
+            "properties": {
+                "name": "縣立壯圍國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4779313,
+                    24.57431280000002
+                ]
+            },
+            "properties": {
+                "name": "縣立大同國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7573169,
+                    24.72600030000002
+                ]
+            },
+            "properties": {
+                "name": "縣立凱旋國中",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8197845,
+                    24.85990319999998
+                ]
+            },
+            "properties": {
+                "name": "縣立人文國中(小)",
+                "POI_category": "國民中學",
+                "color": "#A89C94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7418353,
+                    24.75078619999998
+                ]
+            },
+            "properties": {
+                "name": "宜蘭高中",
+                "POI_category": "高級中學",
+                "color": "#948C87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7533842,
+                    24.74495680000002
+                ]
+            },
+            "properties": {
+                "name": "國立蘭陽女子高級中學",
+                "POI_category": "高級中學",
+                "color": "#948C87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7664845,
+                    24.75585870000001
+                ]
+            },
+            "properties": {
+                "name": "國立宜蘭高級商業職業學校",
+                "POI_category": "高級中學",
+                "color": "#948C87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7505351,
+                    24.66944190000001
+                ]
+            },
+            "properties": {
+                "name": "國立羅東高級工業職業學校",
+                "POI_category": "高級中學",
+                "color": "#948C87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7626435,
+                    24.68249840000002
+                ]
+            },
+            "properties": {
+                "name": "羅東高中",
+                "POI_category": "高級中學",
+                "color": "#948C87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8455556,
+                    24.59402779999999
+                ]
+            },
+            "properties": {
+                "name": "蘇澳海事",
+                "POI_category": "高級中學",
+                "color": "#948C87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8160472,
+                    24.85135460000002
+                ]
+            },
+            "properties": {
+                "name": "頭城家商",
+                "POI_category": "高級中學",
+                "color": "#948C87"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.9451914,
+                    24.9783344
+                ]
+            },
+            "properties": {
+                "name": "石城站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.9224961,
+                    24.9667986
+                ]
+            },
+            "properties": {
+                "name": "大里站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8898732,
+                    24.9384235
+                ]
+            },
+            "properties": {
+                "name": "大溪站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8688782,
+                    24.9048183
+                ]
+            },
+            "properties": {
+                "name": "龜山站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8457576,
+                    24.8837032
+                ]
+            },
+            "properties": {
+                "name": "外澳站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8225558,
+                    24.8589758
+                ]
+            },
+            "properties": {
+                "name": "頭城站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8092075,
+                    24.843998
+                ]
+            },
+            "properties": {
+                "name": "頂埔站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7753536,
+                    24.8270345
+                ]
+            },
+            "properties": {
+                "name": "礁溪站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7627275,
+                    24.7868018
+                ]
+            },
+            "properties": {
+                "name": "四城站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7582529,
+                    24.7545124
+                ]
+            },
+            "properties": {
+                "name": "宜蘭站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.774131,
+                    24.7052671
+                ]
+            },
+            "properties": {
+                "name": "二結站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.775256,
+                    24.694166
+                ]
+            },
+            "properties": {
+                "name": "中里站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7746293,
+                    24.6779285
+                ]
+            },
+            "properties": {
+                "name": "羅東站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7921071,
+                    24.6362965
+                ]
+            },
+            "properties": {
+                "name": "冬山站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8229,
+                    24.6153953
+                ]
+            },
+            "properties": {
+                "name": "新馬站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82703,
+                    24.6090239
+                ]
+            },
+            "properties": {
+                "name": "蘇澳新站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8514401,
+                    24.5951807
+                ]
+            },
+            "properties": {
+                "name": "蘇澳站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8445641,
+                    24.5684172
+                ]
+            },
+            "properties": {
+                "name": "永樂站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.830705,
+                    24.518281
+                ]
+            },
+            "properties": {
+                "name": "東澳站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8009262,
+                    24.4633961
+                ]
+            },
+            "properties": {
+                "name": "南澳站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7760368,
+                    24.4486736
+                ]
+            },
+            "properties": {
+                "name": "武塔站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7683548,
+                    24.3354282
+                ]
+            },
+            "properties": {
+                "name": "漢本站",
+                "POI_category": "火車站",
+                "color": "#A3A2A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753468,
+                    24.683041
+                ]
+            },
+            "properties": {
+                "name": "羅東運動公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754727,
+                    24.739158
+                ]
+            },
+            "properties": {
+                "name": "宜蘭運動公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.775821,
+                    24.67454
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮公一公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761438,
+                    24.683339
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮公五公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.775821,
+                    24.67454
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮公七公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770271,
+                    24.669137
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮公九公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761851,
+                    24.674044
+                ]
+            },
+            "properties": {
+                "name": "樟仔園公園(11號公園)",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757837,
+                    24.6792
+                ]
+            },
+            "properties": {
+                "name": "培英路綠地",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76709,
+                    24.680992
+                ]
+            },
+            "properties": {
+                "name": "鍾山新村綠地",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754124,
+                    24.666805
+                ]
+            },
+            "properties": {
+                "name": "西安公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.769159,
+                    24.676666
+                ]
+            },
+            "properties": {
+                "name": "公二公園(羅東鎮中山公園)",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.835313,
+                    24.599709
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮運動公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.869701,
+                    24.576826
+                ]
+            },
+            "properties": {
+                "name": "南方澳北濱公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756326,
+                    24.764877
+                ]
+            },
+            "properties": {
+                "name": "宜蘭河濱公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770014,
+                    24.82855
+                ]
+            },
+            "properties": {
+                "name": "礁溪湯圍溝公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.776573,
+                    24.831306
+                ]
+            },
+            "properties": {
+                "name": "礁溪溫泉公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740184,
+                    24.792055
+                ]
+            },
+            "properties": {
+                "name": "龍潭湖風景區",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81227,
+                    24.672229
+                ]
+            },
+            "properties": {
+                "name": "親水公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.637127,
+                    24.611909
+                ]
+            },
+            "properties": {
+                "name": "清水地熱公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.775814,
+                    24.828722
+                ]
+            },
+            "properties": {
+                "name": "地景廣場",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.773659,
+                    24.828743
+                ]
+            },
+            "properties": {
+                "name": "溫泉廣場",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770713,
+                    24.824657
+                ]
+            },
+            "properties": {
+                "name": "水景廣場",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.776116,
+                    24.829128
+                ]
+            },
+            "properties": {
+                "name": "迎賓廣場",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65118,
+                    24.667909
+                ]
+            },
+            "properties": {
+                "name": "三星公園(洛克馬公園)",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.796093,
+                    24.687608
+                ]
+            },
+            "properties": {
+                "name": "鄉村公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.817888,
+                    24.6689
+                ]
+            },
+            "properties": {
+                "name": "五結鄉鄰閭公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.824441,
+                    24.66936
+                ]
+            },
+            "properties": {
+                "name": "五結鄉舊河道第二期",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768705,
+                    24.711205
+                ]
+            },
+            "properties": {
+                "name": "五結鄉溪濱公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754334,
+                    24.754367
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市中山公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.794051,
+                    24.633872
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉鄉政公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.823892,
+                    24.86375
+                ]
+            },
+            "properties": {
+                "name": "頭城運動公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.722998,
+                    24.744609
+                ]
+            },
+            "properties": {
+                "name": "員山公園",
+                "POI_category": "公園",
+                "color": "#BAB1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75339680634455,
+                    24.751986348404657
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82146809013807,
+                    24.854769291310916
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76697832269508,
+                    24.676944764277355
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84215143632974,
+                    24.594413394644988
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77121421562519,
+                    24.823567579299393
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78577392408366,
+                    24.746942537339912
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79837078490621,
+                    24.684703537877567
+                ]
+            },
+            "properties": {
+                "name": "五結鄉公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71980004499386,
+                    24.747165827003826
+                ]
+            },
+            "properties": {
+                "name": "員山鄉公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65414507807404,
+                    24.665356714506594
+                ]
+            },
+            "properties": {
+                "name": "三星鄉公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79267917254322,
+                    24.634418511349217
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60909310234558,
+                    24.677411771452554
+                ]
+            },
+            "properties": {
+                "name": "大同鄉公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80374482779284,
+                    24.466072180323025
+                ]
+            },
+            "properties": {
+                "name": "南澳鄉公所",
+                "POI_category": "鄉鎮市區公所",
+                "color": "#B3A89D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7558199657101,
+                    24.75143436955799
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市神農里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74563553190785,
+                    24.744456271280573
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市進士里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74141604585832,
+                    24.725231590466045
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市南橋里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75883722044925,
+                    24.736914799289025
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市建業里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76379226511149,
+                    24.71936737103202
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市南津里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77763040517966,
+                    24.742336519333143
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市黎明里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76368458482092,
+                    24.74935554843818
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市東村里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77397436143016,
+                    24.751619714400306
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市延平里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7722664501317,
+                    24.76483506823181
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市七張里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75989242142417,
+                    24.75797139550329
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市慈安里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75625580883188,
+                    24.758787127377303
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市東門里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75502365409885,
+                    24.75977759220828
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市菜園里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75438700078077,
+                    24.760638998389656
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市孝廉里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76379978267761,
+                    24.76414614442682
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市新生里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74584814240352,
+                    24.7725829518202
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市梅洲里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7538909963689,
+                    24.762503002592805
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市北門里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75132420575484,
+                    24.758406295702464
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市中山里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74881766378752,
+                    24.760215558862072
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市西門里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75069778386896,
+                    24.757031385137264
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市南門里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74520735083924,
+                    24.754103961674332
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市負郭里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74963913686432,
+                    24.753111290045137
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市民族里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74006845993581,
+                    24.751248247324277
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市建軍里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7359823632659,
+                    24.746273168260508
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市思源里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74480195469029,
+                    24.751363865409616
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市文化里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75167324650627,
+                    24.749215950969607
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市復興里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76552127903747,
+                    24.756033286430018
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市成功里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73596594034454,
+                    24.74918902364035
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市七結里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73649222816567,
+                    24.751365926076293
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市泰山里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7573806134818,
+                    24.757616126590136
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市大新里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76095640065314,
+                    24.75702297729157
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市中興里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74962217834211,
+                    24.744586253182177
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市擺厘里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77224149863301,
+                    24.67604178343748
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮大新里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77627627336095,
+                    24.675173502841233
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮東安里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78693470223011,
+                    24.66904637670893
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮新群里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77705611210135,
+                    24.66882253128948
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮羅莊里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77457521960355,
+                    24.671184853196554
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮南昌里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76529374461398,
+                    24.672390120627107
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮成功里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76640925645843,
+                    24.674157400101098
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮仁德里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76107493730046,
+                    24.676454498623826
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮漢民里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75901287958463,
+                    24.66778895787395
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮西安里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75202455813977,
+                    24.67982276056027
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮北成里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76432281998336,
+                    24.678162399457573
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮賢文里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77139992957397,
+                    24.678299194876388
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮公正里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82599670813563,
+                    24.858875327844597
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮城東里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76894071182497,
+                    24.677895424489826
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮集祥里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77008007165202,
+                    24.684252143420974
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮信義里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76537815830774,
+                    24.68723789694185
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮竹林里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7595395636496,
+                    24.695413363690964
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮仁愛里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76078319028821,
+                    24.68311864284784
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮樹林里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75762976400452,
+                    24.671350276954886
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮維揚里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77258519919596,
+                    24.67441502348487
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮開明里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76847425514181,
+                    24.67520477820609
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮中山里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76989085222121,
+                    24.673311162500607
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮仁和里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82904110837462,
+                    24.645795698965333
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮龍德里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83243629596666,
+                    24.64309845343813
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮頂寮里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83443474835433,
+                    24.620844152050818
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮永榮里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84138139190586,
+                    24.625905126996894
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮存仁里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84352854061349,
+                    24.61891466698886
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮港邊里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83553011458137,
+                    24.604539699834906
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮聖愛里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83823801647533,
+                    24.615776058863915
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮隘丁里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81176769157565,
+                    24.610335153584362
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮新城里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83468813600807,
+                    24.591014023028062
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮聖湖里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84923740729485,
+                    24.596490527365027
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮蘇西里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84790317615467,
+                    24.599665507723905
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮蘇北里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.85254821548783,
+                    24.596724423495402
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮蘇南里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.854940792267,
+                    24.595585849783898
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮蘇東里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.85306593533247,
+                    24.592094170179568
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮長安里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.85226863646501,
+                    24.593204100293516
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮永光里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.85138191196242,
+                    24.590729697472717
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮永春里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83754989263397,
+                    24.57665179152658
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮永樂里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.86912420294722,
+                    24.58301575360674
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮南安里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.86417608629725,
+                    24.581615693948255
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮南正里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8645042308452,
+                    24.58119381838045
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮南成里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.86691445360945,
+                    24.580482986892314
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮南興里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.86939929851314,
+                    24.581447231026786
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮南寧里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.87397813319922,
+                    24.578923711260725
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮南建里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83419734811449,
+                    24.516337888567282
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮東澳里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80683841565384,
+                    24.467299905394253
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮南強里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81465435858036,
+                    24.460892937870298
+                ]
+            },
+            "properties": {
+                "name": "蘇澳鎮朝陽里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.95169814546037,
+                    24.981691385163376
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮石城里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.92204639816974,
+                    24.965054900574266
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮大里里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.89751059994121,
+                    24.941637168455067
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮大溪里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.88566488301598,
+                    24.936001927504577
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮合興里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.86948248145778,
+                    24.90514399283762
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮更新里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83907845022789,
+                    24.874318745914483
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮港口里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82670588346886,
+                    24.864968449654132
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮武營里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8305397705305,
+                    24.857238839386845
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮大坑里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82192783328799,
+                    24.856038828208984
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮城西里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82392572159989,
+                    24.85608175525526
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮城南里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82004502925325,
+                    24.821723829996326
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮竹安里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81912781879787,
+                    24.85693296202406
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮新建里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81628563771625,
+                    24.860666341131637
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮拔雅里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80646980216837,
+                    24.862230565444438
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮福成里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80859672673662,
+                    24.845948526220514
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮金面里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79529793251187,
+                    24.847610965147737
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮金盈里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80842385256179,
+                    24.84426172496668
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮頂埔里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80584085878695,
+                    24.835005604477537
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮下埔里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8038709930468,
+                    24.834521882783445
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮中崙里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79406448137489,
+                    24.839287807005434
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮二城里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.90012103656811,
+                    24.942233764119912
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮龜山里辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78448777103087,
+                    24.83661697187958
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉白雲村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78011109047695,
+                    24.833171785064213
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉玉石村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77677085719377,
+                    24.818201428874815
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉德陽村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76878541571993,
+                    24.81938383098291
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉大忠村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76899580022865,
+                    24.81646316086454
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉大義村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77248321204287,
+                    24.824796248156105
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉六結村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78140948625763,
+                    24.807010409344606
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉二龍村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81380198585498,
+                    24.82113206960379
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉時潮村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7556023539709,
+                    24.814522305157205
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉林美村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77793000776673,
+                    24.800611458121747
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉玉光村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74290324369821,
+                    24.780877637475932
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉龍潭村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78684963604137,
+                    24.748364277059185
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉吉祥村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77873511802058,
+                    24.738322564807074
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉美福村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80736890853781,
+                    24.71897040404514
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉新南村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82118715846512,
+                    24.72697101475224
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉東港村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81534800410738,
+                    24.739248700787975
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉復興村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81530520257962,
+                    24.76351582263705
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉過嶺村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81553832367466,
+                    24.765893856187496
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉永鎮村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79946900018216,
+                    24.76169599834617
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉忠孝村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78758231676044,
+                    24.7712965815215
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉古亭村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79613499908488,
+                    24.765661001447953
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉功勞村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79477365988535,
+                    24.794580643304588
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉美城村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80549188854063,
+                    24.79408419653154
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉新社村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81605567451706,
+                    24.80235270624332
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉大福村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79770638531147,
+                    24.730441358406388
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉古結村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72321391567559,
+                    24.744698311511037
+                ]
+            },
+            "properties": {
+                "name": "員山鄉員山村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71431480773896,
+                    24.739733684876864
+                ]
+            },
+            "properties": {
+                "name": "員山鄉尚德村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72555057741408,
+                    24.731299459507213
+                ]
+            },
+            "properties": {
+                "name": "員山鄉惠好村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73942114011548,
+                    24.716139685879828
+                ]
+            },
+            "properties": {
+                "name": "員山鄉七賢村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72193403980276,
+                    24.722318339163543
+                ]
+            },
+            "properties": {
+                "name": "員山鄉深溝村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69582642629344,
+                    24.71525787474999
+                ]
+            },
+            "properties": {
+                "name": "員山鄉蓁巷村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69327118563925,
+                    24.721000331529332
+                ]
+            },
+            "properties": {
+                "name": "員山鄉內城村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64630753540762,
+                    24.70936774805248
+                ]
+            },
+            "properties": {
+                "name": "員山鄉中華村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71232816582173,
+                    24.752955171935817
+                ]
+            },
+            "properties": {
+                "name": "員山鄉永和村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72275961867501,
+                    24.76162382206338
+                ]
+            },
+            "properties": {
+                "name": "員山鄉頭分村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71454717016255,
+                    24.77115462677286
+                ]
+            },
+            "properties": {
+                "name": "員山鄉枕山村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72776961668744,
+                    24.764211522361627
+                ]
+            },
+            "properties": {
+                "name": "員山鄉同樂村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.70703831963756,
+                    24.74539277823668
+                ]
+            },
+            "properties": {
+                "name": "員山鄉湖東村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69300765512426,
+                    24.746767407611777
+                ]
+            },
+            "properties": {
+                "name": "員山鄉湖北村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79996668602094,
+                    24.662063558464464
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉武淵村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78109795334714,
+                    24.651451454051784
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉珍珠村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80790385416725,
+                    24.656795744645255
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉補城村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80912860991296,
+                    24.63749070827495
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉三奇村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81208030142298,
+                    24.635369322786723
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉大興村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80545762135019,
+                    24.631307206329172
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉東城村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79698643466455,
+                    24.628627701489826
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉香和村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7942475111717,
+                    24.630112713478432
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉南興村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78875938566135,
+                    24.63509531519186
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉冬山村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78259253942836,
+                    24.626458857989626
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉安平村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77639017291334,
+                    24.636937627258504
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉太和村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76489378114148,
+                    24.633057594387953
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉八寶村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76404002260115,
+                    24.64481839472511
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉丸山村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74747381442913,
+                    24.629124878311988
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉中山村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76426428884446,
+                    24.65520934416226
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉順安村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76861326677366,
+                    24.667481124144256
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉群英村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7648093697108,
+                    24.666322621607485
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉清溝村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75427003372546,
+                    24.659474241015573
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉鹿埔村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73248451813153,
+                    24.657402945978497
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉得安村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74879007114316,
+                    24.66991360502935
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉廣興村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7460878041337,
+                    24.674354246932523
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉廣安村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74028911734601,
+                    24.67923257002918
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉柯林村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71586922359799,
+                    24.63705042647507
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉大進村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77722466864147,
+                    24.70309882127348
+                ]
+            },
+            "properties": {
+                "name": "五結鄉三興村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7693557426258,
+                    24.703224388765808
+                ]
+            },
+            "properties": {
+                "name": "五結鄉二結村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.76724848098866,
+                    24.707396233649998
+                ]
+            },
+            "properties": {
+                "name": "五結鄉鎮安村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77078144442297,
+                    24.70116514173262
+                ]
+            },
+            "properties": {
+                "name": "五結鄉上四村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77692061655537,
+                    24.69234156639133
+                ]
+            },
+            "properties": {
+                "name": "五結鄉中興村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77070349136788,
+                    24.691925688726393
+                ]
+            },
+            "properties": {
+                "name": "五結鄉四結村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78940001298834,
+                    24.68407603954492
+                ]
+            },
+            "properties": {
+                "name": "五結鄉福興村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79430897200643,
+                    24.68794270147294
+                ]
+            },
+            "properties": {
+                "name": "五結鄉五結村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.79910226427678,
+                    24.700061047532607
+                ]
+            },
+            "properties": {
+                "name": "五結鄉大吉村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80353916421271,
+                    24.676417704766955
+                ]
+            },
+            "properties": {
+                "name": "五結鄉協和村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81039490045944,
+                    24.694653649725478
+                ]
+            },
+            "properties": {
+                "name": "五結鄉孝威村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82429242738114,
+                    24.66446357248527
+                ]
+            },
+            "properties": {
+                "name": "五結鄉利澤村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.82724099023433,
+                    24.651588929416125
+                ]
+            },
+            "properties": {
+                "name": "五結鄉成興村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83240339708469,
+                    24.674977009869497
+                ]
+            },
+            "properties": {
+                "name": "五結鄉季新村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6231587601863,
+                    24.65751453525828
+                ]
+            },
+            "properties": {
+                "name": "三星鄉天山村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62438178851453,
+                    24.66189737151877
+                ]
+            },
+            "properties": {
+                "name": "三星鄉天福村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64599581477114,
+                    24.662780796929123
+                ]
+            },
+            "properties": {
+                "name": "三星鄉雙賢村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.64734459291117,
+                    24.668296405246146
+                ]
+            },
+            "properties": {
+                "name": "三星鄉人和村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65496524172221,
+                    24.66684546329664
+                ]
+            },
+            "properties": {
+                "name": "三星鄉集慶村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.66499613353203,
+                    24.670135849378905
+                ]
+            },
+            "properties": {
+                "name": "三星鄉月眉村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71770492148151,
+                    24.674446060600655
+                ]
+            },
+            "properties": {
+                "name": "三星鄉大隱村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.67968811441051,
+                    24.67340029189087
+                ]
+            },
+            "properties": {
+                "name": "三星鄉行健村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65364446970551,
+                    24.679941661421328
+                ]
+            },
+            "properties": {
+                "name": "三星鄉萬德村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.67503863034563,
+                    24.692422425563354
+                ]
+            },
+            "properties": {
+                "name": "三星鄉貴林村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.67020198554148,
+                    24.67898489285441
+                ]
+            },
+            "properties": {
+                "name": "三星鄉萬富村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69546657602369,
+                    24.683692139121675
+                ]
+            },
+            "properties": {
+                "name": "三星鄉大義村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.69593775966058,
+                    24.693007004261858
+                ]
+            },
+            "properties": {
+                "name": "三星鄉尚武村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.72545527563071,
+                    24.69034285770274
+                ]
+            },
+            "properties": {
+                "name": "三星鄉大洲村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74622308939955,
+                    24.70479242912942
+                ]
+            },
+            "properties": {
+                "name": "三星鄉尾塹村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60643538641794,
+                    24.631780552809854
+                ]
+            },
+            "properties": {
+                "name": "大同鄉復興村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53005320223852,
+                    24.599009977815438
+                ]
+            },
+            "properties": {
+                "name": "大同鄉樂水村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42631338256341,
+                    24.487687520603465
+                ]
+            },
+            "properties": {
+                "name": "大同鄉四季村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45173782259602,
+                    24.531858458262352
+                ]
+            },
+            "properties": {
+                "name": "大同鄉茂安村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.80133714545127,
+                    24.46827436181529
+                ]
+            },
+            "properties": {
+                "name": "南澳鄉南澳村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.78673657082366,
+                    24.475233736983796
+                ]
+            },
+            "properties": {
+                "name": "南澳鄉碧候村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.83141985028045,
+                    24.521483206828414
+                ]
+            },
+            "properties": {
+                "name": "南澳鄉東岳村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77569175846084,
+                    24.470934876151375
+                ]
+            },
+            "properties": {
+                "name": "南澳鄉金岳村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.77644329428834,
+                    24.443316394147335
+                ]
+            },
+            "properties": {
+                "name": "南澳鄉武塔村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75054618622156,
+                    24.425000443335843
+                ]
+            },
+            "properties": {
+                "name": "南澳鄉金洋村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.73989706683079,
+                    24.330875056554053
+                ]
+            },
+            "properties": {
+                "name": "南澳鄉澳花村辦公室",
+                "POI_category": "村里辦公室",
+                "color": "#C3B8A6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7598725,
+                    24.75593550000001
+                ]
+            },
+            "properties": {
+                "name": "宜蘭縣農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7519151,
+                    24.75536289999999
+                ]
+            },
+            "properties": {
+                "name": "宜蘭市農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7640334,
+                    24.6707387
+                ]
+            },
+            "properties": {
+                "name": "羅東鎮農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8504909,
+                    24.59614729999998
+                ]
+            },
+            "properties": {
+                "name": "蘇澳地區農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.824273,
+                    24.859545
+                ]
+            },
+            "properties": {
+                "name": "頭城鎮農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7707213,
+                    24.82103739999999
+                ]
+            },
+            "properties": {
+                "name": "礁溪鄉農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7867769,
+                    24.74618339999999
+                ]
+            },
+            "properties": {
+                "name": "壯圍鄉農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7265083,
+                    24.7455463
+                ]
+            },
+            "properties": {
+                "name": "員山鄉農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7935871,
+                    24.63278609999999
+                ]
+            },
+            "properties": {
+                "name": "冬山鄉農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7976698,
+                    24.68559139999998
+                ]
+            },
+            "properties": {
+                "name": "五結鄉農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.65228,
+                    24.667939
+                ]
+            },
+            "properties": {
+                "name": "三星地區農會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8659277,
+                    24.58338680000001
+                ]
+            },
+            "properties": {
+                "name": "蘇澳區漁會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8253192,
+                    24.85783430000002
+                ]
+            },
+            "properties": {
+                "name": "頭城區漁會",
+                "POI_category": "農漁會",
+                "color": "#A9A7A0"
+            }
+        }
+    ]
+}
